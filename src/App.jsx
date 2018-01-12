@@ -59,7 +59,7 @@ class App extends Component {
       <div>
         <nav className="navbar">
           <a href="/" className="navbar-brand">Chatty</a>
-          <span> Active Users {activeUsers} </span>
+          <span className="activeUsers"> Active Users {activeUsers} </span>
         </nav>
         <MessageList messages={msgs} />
         <ChatBar send={this.send.bind(this)} />
