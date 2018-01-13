@@ -30,9 +30,6 @@ npm start
 open http://localhost:3000 on two seperate browser windows
 ```
 
-
-### Dependencies
-
 devDependencies
 ===============
 * babel-core: 6.26.0
