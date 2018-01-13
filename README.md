@@ -1,7 +1,13 @@
 ChattyApp
 =====================
-ChattyApp is best
-A minimal and light dev environment for ReactJS.
+ChattyApp is the start to a slack-like application using ReactJs and Websockets
+
+
+## Final Product
+!['Screenshot of Navbar']()
+!['Screenshot of homepage']()
+!['Screenshot of homepage with point details']()
+!['Screenshot of profile page']()
 
 ### Usage
 

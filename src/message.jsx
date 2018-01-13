@@ -15,7 +15,7 @@ class Message extends Component {
       return (
         <div className="message system">
           <span>{oldName || (<i>Anonymous </i>)}</span>
-          <span>has changed there name to</span>
+          <span className="spaces">has changed there name to</span>
           <span>{username}</span>
         </div>
       );
