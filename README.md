@@ -4,11 +4,11 @@ ChattyApp is the start to a slack-like application using ReactJs and Websockets
 
 
 ## Final Product
-!['Screenshot of Navbar']()
-!['Screenshot of homepage']()
-!['Screenshot of homepage with point details']()
-!['Screenshot of profile page']()
-
+!['Screenshot of Homepage with no users'](https://github.com/ItsJustChewbacca/ChattyApp/blob/master/build/ChattyAppStart.png)
+!['Screenshot of first user logging in their names'](https://github.com/ItsJustChewbacca/ChattyApp/blob/master/build/ChattyAppFirstUser.png)
+!['Screenshot of first user sending a message'](https://github.com/ItsJustChewbacca/ChattyApp/blob/master/build/ChattyAppFirstMessage.png)
+!['Screenshot of third user sending a message'](https://github.com/ItsJustChewbacca/ChattyApp/blob/master/build/ChattAppThirdUser.png)
+!['Screenshot of first user Recieving messages from other users'](https://github.com/ItsJustChewbacca/ChattyApp/blob/master/build/ChattyAppThreeUsers.png)
 ### Usage
 
 Clone this repo.
