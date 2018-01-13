@@ -15,34 +15,27 @@ git remote add origin [YOUR NEW REPOSITORY]
 # Manually update your package.json file
 ```
 
-Install the dependencies and start the server.
+Install the dependencies in both ChattyApp/ and ChattyApp/chatty_server and start both servers.
 
 ```
+Open terminal &
+Within the ChattyApp directory run:
 npm install
 npm start
-open http://localhost:3000
+
+Open new terminal Windown &
+within the ChattyApp/chatty_server directory run:
+npm install
+npm start
+open http://localhost:3000 on two seperate browser windows
 ```
 
-### Static Files
-
-You can store static files like images, fonts, etc in the `build` folder.
-
-For example, if you copy a file called my_image.png into the build folder you can access it using `http://localhost:3000/build/my_image.png`.
-
-### Linting
-
-This boilerplate project includes React ESLint configuration.
-
-```
-npm run lint
-```
 
 ### Dependencies
 
 devDependencies
 ===============
 * babel-core: 6.26.0
-
 * babel-loader: 7.1.2
 * babel-preset-es2015: 6.24.1
 * babel-preset-react: 6.24.1
@@ -59,6 +52,6 @@ devDependencies
 
 dependencies
 =============
-*react: 16.2.0,
-*react-dom: 16.2.0
+* react: 16.2.0,
+* react-dom: 16.2.0
 
